@@ -1,11 +1,11 @@
 # Hi there, I'm Adnan 👋
 
 ## About Me
-📚 I'm a Grade 11 student at Guards Public College.  
-🖥️ Passionate about web development and keen to explore the depths of technology.  
-🌱 Currently enrolled in Saylani Mass IT Training Center, mastering HTML, CSS, and diving into JavaScript.  
-🚀 Eager to deploy engaging web and mobile apps in the near future.  
-🎮 Avid gamer with a penchant for COD Mobile, PUBG Mobile, and more.
+🎓 Just graduated from Grade 12 at Guards Public College.
+🖥️ Web development enthusiast, diving deeper into the world of React.
+🌱 Currently honing my skills at Saylani Mass IT Training Center, with a focus on mastering HTML, CSS, JavaScript, and React.
+🚀 On a mission to create dynamic web and mobile applications that leave an impact.
+🎮 Gamer at heart—whether it's COD Mobile or PUBG Mobile, I'm always up for a challenge.
 
 ## Connect with Me
 - 🌐 [Portfolio](#) *(Coming Soon!)*  
@@ -13,8 +13,9 @@
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/adnan-muhammad-67258828a/)  
 
 ## My Current Learning Journey
-```javascript
+```React
 let adnan = {
-    currentLearning: ["JavaScript", "Web Deployment", "Mobile App Deployment"],
-    goals: ["Build a personal portfolio", "Contribute to open-source", "Collaborate on projects"],
+    currentLearning: ["React", "Web Deployment", "Mobile App Deployment"],
+    goals: ["Launch a personal portfolio", "Contribute to open-source", "Collaborate on innovative projects"],
 };
+
