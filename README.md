@@ -1,16 +1,20 @@
 # Hi there, I'm Adnan 👋
 
-## About Me
+## Hi there, I'm Adnan 👋
 
-🎓 Just graduated from Grade 12 at Guards Public College.
+About Me
 
-🖥️ Web development enthusiast, diving deeper into the world of React.
+🎓 Currently a university student with a strong passion for tech and innovation.
 
-🌱 Currently honing my skills at Saylani Mass IT Training Center, with a focus on mastering HTML, CSS, JavaScript, and React.
+🛠️ Completed several real-world projects and actively contributed to the Saylani Mass IT Training (S.M.I.T) institute.
 
-🚀 On a mission to create dynamic web and mobile applications that leave an impact.
+🖥️ Web and mobile development enthusiast, deeply involved in building impactful applications using React and modern web technologies.
 
-🎮 Gamer at heart—whether it's COD Mobile or PUBG Mobile, I'm always up for a challenge.
+🌱 Continuously learning and growing—always leveling up my skills in HTML, CSS, JavaScript, and React.
+
+🚀 On a mission to craft fast, reliable, and user-friendly digital experiences.
+
+🎮 Gamer at heart—COD Mobile and PUBG Mobile are my go-to stress busters.
 
 ## Connect with Me
 - 🌐 [Portfolio](#) *(Coming Soon!)*  
