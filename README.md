@@ -10,7 +10,7 @@ About Me
 
 🖥️ Web and mobile development enthusiast, deeply involved in building impactful applications using React and modern web technologies.
 
-🌱 Continuously learning and growing—always leveling up my skills in HTML, CSS, JavaScript, and React.
+🌱 Continuously learning and growing—always leveling up my skills.
 
 🚀 On a mission to craft fast, reliable, and user-friendly digital experiences.
 
