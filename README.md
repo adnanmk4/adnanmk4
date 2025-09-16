@@ -1,4 +1,4 @@
-# Hi there, I'm Adnan 👋
+# Hi there, I'm Adnan Muhammad 👋
 
 ## Hi there, I'm Adnan Muhammad 👋
 
