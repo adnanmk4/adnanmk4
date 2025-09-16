@@ -1,14 +1,14 @@
 # Hi there, I'm Adnan 👋
 
-## Hi there, I'm Adnan 👋
+## Hi there, I'm Adnan Muhammad 👋
 
 About Me
 
 🎓 Currently a university student with a strong passion for tech and innovation.
 
-🛠️ Completed several real-world projects and actively contributed to the Saylani Mass IT Training (S.M.I.T) institute.
+🛠️ Completed several real-world projects and actively contributed to the Saylani Mass IT Training (S.M.I.T TECH) institute.
 
-🖥️ Web and mobile development enthusiast, deeply involved in building impactful applications using React and modern web technologies.
+🖥️ Web and mobile development enthusiast, deeply involved in building impactful applications using NexT and modern web technologies.
 
 🌱 Continuously learning and growing—always leveling up my skills.
 
@@ -22,9 +22,9 @@ About Me
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/adnan-muhammad-67258828a/)  
 
 ## My Current Learning Journey
-```React
+```
 let adnan = {
-    currentLearning: ["React", "Web Deployment", "Mobile App Deployment"],
-    goals: ["Launch a personal portfolio", "Contribute to open-source", "Collaborate on innovative projects"],
+    currentLearning: ["Ai", "ML", "Mobile App Deployment"],
+    goals: ["Contribute to open-source", "Collaborate on innovative projects"],
 };
 
