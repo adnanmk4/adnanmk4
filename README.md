@@ -1,7 +1,5 @@
 # Hi there, I'm Adnan Muhammad 👋
 
-## Hi there, I'm Adnan Muhammad 👋
-
 About Me
 💻 Web Developer who builds websites that actually perform
 
