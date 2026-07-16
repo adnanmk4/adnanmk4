@@ -1,15 +1,25 @@
-# Hi there, I'm Adnan Muhammad 👋
+```md
+# Hi, I'm Adnan Muhammad 👋
 
-About Me
-💻 Web Developer who builds websites that actually perform
+Building software.
+Solving problems.
+Learning every day.
 
-🚀 From idea → design → development → deployment
+⚡ Full Stack Developer
 
-🛠️ Real-world project experience with modern tech stack
+🚀 Founder @ Solution Stack
 
-⚡ Speed. Performance. Clean UI. That’s the standard
+🤖 AI • Web • Mobile
 
-📈 Helping brands & startups turn visitors into customers
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,git,github,linux,figma,vscode" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 
 ## Connect with Me
@@ -24,3 +34,4 @@ let adnan = {
     goals: ["Contribute to open-source", "Collaborate on innovative projects"],
 };
 
+📍 Pakistan
