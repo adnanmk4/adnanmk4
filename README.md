@@ -14,6 +14,10 @@ Full Stack Developer • Founder • Building products that solve real problems.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/Adnanmk4/output/github-contribution-grid-snake.svg"/>
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+
+<a href="mailto:YOURMAIL">Email</a> •
+
+<a href="https://linkedin.com/in/...">LinkedIn</a>
 
 </p>
