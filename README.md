@@ -17,6 +17,9 @@
 - 🌱 Always building something new
 
 
+<-------------------------------------------------->
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanmk4&theme=tokyo-night"/>
   
 
@@ -26,11 +29,24 @@
 
 </p>
 
+<p align="center">
 
-✔ Loading Projects...
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,figma,vercel"/>
 
-✔ Loading Skills...
+</p>
 
-✔ Connecting to GitHub...
 
-✔ Welcome, Visitor.
+## 🔥 Currently Building
+
+🚀 SolutionStack
+
+An agency focused on building modern websites, mobile apps, and AI-powered solutions that help businesses grow.
+
+## 💭 Philosophy
+
+> Build things people actually use.
+
+
+⭐ Thanks for visiting!
+
+Let's build something awesome.
