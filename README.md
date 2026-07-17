@@ -17,18 +17,6 @@
 - 🌱 Always building something new
 
 
-<-------------------------------------------------->
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanmk4&theme=tokyo-night"/>
-  
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adnanmk4&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode,figma,vercel"/>
@@ -36,11 +24,22 @@
 </p>
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanmk4&theme=tokyo-night"/>
+  
+
+
+
 ## 🔥 Currently Building
 
 🚀 SolutionStack
 
 An agency focused on building modern websites, mobile apps, and AI-powered solutions that help businesses grow.
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=adnanmk4&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 💭 Philosophy
 
