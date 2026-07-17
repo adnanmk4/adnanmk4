@@ -11,3 +11,9 @@ Full Stack Developer • Founder • Building products that solve real problems.
 🌍 Turning ideas into products people actually use
 
 📚 Always learning. Always shipping.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/Adnanmk4/output/github-contribution-grid-snake.svg"/>
+
+</p>
