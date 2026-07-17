@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
+<img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/0ab24804-9e20-4bf1-bf02-e5f6629583b5" />
 
 ═══════╗
 ║                                              ║
