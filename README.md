@@ -1,5 +1,29 @@
 <img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/0ab24804-9e20-4bf1-bf02-e5f6629583b5" />
 
+## About Me
+
+- 💻 Full Stack Developer
+
+- 📱 React Native Developer
+
+- 🤖 AI Integrations
+
+- 🎓 University Student
+
+- 🚀 Founder of SolutionStack
+
+- ✈️ Aviation Enthusiast
+
+- 🌱 Always building something new
+
+  <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adnanmk4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanmk4&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ═══════╗
 ║                                              ║
 ║   █████╗ ██████╗ ███╗   ██╗ █████╗ ███╗   ██╗║
