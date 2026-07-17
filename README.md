@@ -1,23 +1,21 @@
-# Hey, I'm Adnan Muhammad 👋
+═══════╗
+║                                              ║
+║   █████╗ ██████╗ ███╗   ██╗ █████╗ ███╗   ██╗║
+║  ██╔══██╗██╔══██╗████╗  ██║██╔══██╗████╗  ██║║
+║  ███████║██║  ██║██╔██╗ ██║███████║██╔██╗ ██║║
+║  ██╔══██║██║  ██║██║╚██╗██║██╔══██║██║╚██╗██║║
+║  ██║  ██║██████╔╝██║ ╚████║██║  ██║██║ ╚████║║
+║                                              ║
+║        Initializing Developer Profile...     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
-Full Stack Developer • Founder • Building products that solve real problems.
+✔ Loading Projects...
 
-🚀 Founder of Solution Stack
+✔ Loading Skills...
 
-💻 Building AI-powered websites, web apps & mobile apps
+✔ Connecting to GitHub...
 
-⚡ Obsessed with clean UI, performance, and scalable architecture
+✔ Welcome, Visitor.
 
-🌍 Turning ideas into products people actually use
-
-📚 Always learning. Always shipping.
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-
-<a href="mailto:YOURMAIL">Email</a> •
-
-<a href="https://linkedin.com/in/...">LinkedIn</a>
-
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanmk4&theme=tokyo-night"/>
