@@ -15,12 +15,11 @@
 - ✈️ Aviation Enthusiast
 
 - 🌱 Always building something new
+  
 
-  <p align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adnanmk4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanmk4&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=adnanmk4&theme=tokyonight&hide_border=true"/>
 
 </p>
 
